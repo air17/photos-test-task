@@ -1,0 +1,12 @@
+django-querycount==0.8.3
+django-debug-toolbar==3.8.1
+nplusone==1
+django_migration_linter==4.1.0
+django_test_migrations==1.2
+django-extra-checks==0.13.3
+flake8==6.0
+black==22.12.0
+isort==5.11.4
+pre-commit==2.21
+pytest==7.2
+pytest-datafiles==2.0.1

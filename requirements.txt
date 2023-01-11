@@ -1,0 +1,14 @@
+Django==4.1.5
+djangorestframework==3.14
+djangorestframework-simplejwt==5.2.2
+django-cors-headers==3.13.0
+psycopg2-binary==2.9.5
+python-decouple==3.7
+django-axes==5.40.1
+django-http-referrer-policy==1.1.1
+django-split-settings==1.2
+django-cleanup==6
+django-health-check==3.17
+django-stubs-ext==0.7
+gunicorn==20.1.0
+bcrypt==4.0.1
